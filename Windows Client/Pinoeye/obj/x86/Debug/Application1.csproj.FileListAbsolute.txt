@@ -1,0 +1,3 @@
+C:\Users\Rainbow\Desktop\control-1025\control\bin\Debug\Pinoeye.exe.config
+C:\Users\Rainbow\Desktop\control-1025\control\obj\x86\Debug\Interop.SHDocVw.dll
+C:\Users\Rainbow\Desktop\control-1025\control\obj\x86\Debug\Application1.csproj.ResolveComReference.cache

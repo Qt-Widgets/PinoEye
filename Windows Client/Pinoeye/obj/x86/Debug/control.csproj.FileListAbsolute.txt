@@ -1,0 +1,107 @@
+c:\users\s.h kim\documents\visual studio 2010\Projects\control\control\bin\Debug\control.exe
+c:\users\s.h kim\documents\visual studio 2010\Projects\control\control\bin\Debug\control.pdb
+c:\users\s.h kim\documents\visual studio 2010\Projects\control\control\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\s.h kim\documents\visual studio 2010\Projects\control\control\obj\x86\Debug\control.Form1.resources
+c:\users\s.h kim\documents\visual studio 2010\Projects\control\control\obj\x86\Debug\control.Properties.Resources.resources
+c:\users\s.h kim\documents\visual studio 2010\Projects\control\control\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\s.h kim\documents\visual studio 2010\Projects\control\control\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\s.h kim\documents\visual studio 2010\Projects\control\control\obj\x86\Debug\control.exe
+c:\users\s.h kim\documents\visual studio 2010\Projects\control\control\obj\x86\Debug\control.pdb
+c:\users\s.h kim\documents\visual studio 2010\Projects\control\control\obj\x86\Debug\Interop.SHDocVw.dll
+c:\users\s.h kim\documents\visual studio 2010\Projects\control\control\obj\x86\Debug\control.csproj.ResolveComReference.cache
+C:\Users\admin\Desktop\control\control\obj\x86\Debug\Interop.SHDocVw.dll
+C:\Users\admin\Desktop\control\control\obj\x86\Debug\control.csproj.ResolveComReference.cache
+C:\Users\admin\Desktop\control\control\obj\x86\Debug\control.exe
+C:\Users\admin\Desktop\control\control\obj\x86\Debug\control.pdb
+C:\Users\admin\Desktop\control\control\bin\Debug\control.exe
+C:\Users\admin\Desktop\control\control\bin\Debug\control.pdb
+C:\Users\admin\Desktop\control\control\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\control\control\obj\x86\Debug\control.Form1.resources
+C:\Users\admin\Desktop\control\control\obj\x86\Debug\control.Properties.Resources.resources
+C:\Users\admin\Desktop\control\control\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\control\control\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\C#\control\control\obj\x86\Debug\Interop.SHDocVw.dll
+C:\Users\admin\Desktop\C#\control\control\obj\x86\Debug\control.csproj.ResolveComReference.cache
+C:\Users\admin\Desktop\C#\control\control\obj\x86\Debug\control.exe
+C:\Users\admin\Desktop\C#\control\control\obj\x86\Debug\control.pdb
+C:\Users\admin\Desktop\C#\control - 0912\control\obj\x86\Debug\Interop.SHDocVw.dll
+C:\Users\admin\Desktop\C#\control - 0912\control\obj\x86\Debug\control.csproj.ResolveComReference.cache
+C:\Users\admin\Desktop\C#\control - 0912\control\obj\x86\Debug\control.exe
+C:\Users\admin\Desktop\C#\control - 0912\control\obj\x86\Debug\control.pdb
+C:\Users\admin\Desktop\C#\control - 0912\control\bin\Debug\control.exe
+C:\Users\admin\Desktop\C#\control - 0912\control\bin\Debug\control.pdb
+C:\Users\admin\Desktop\C#\control - 0912\control\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\C#\control - 0912\control\obj\x86\Debug\control.Form1.resources
+C:\Users\admin\Desktop\C#\control - 0912\control\obj\x86\Debug\control.Properties.Resources.resources
+C:\Users\admin\Desktop\C#\control - 0912\control\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\C#\control - 0912\control\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\C#\control - 0925\control\obj\x86\Debug\Interop.SHDocVw.dll
+C:\Users\admin\Desktop\C#\control - 0925\control\obj\x86\Debug\control.csproj.ResolveComReference.cache
+C:\Users\admin\Desktop\C#\control - 0925\control\obj\x86\Debug\control.exe
+C:\Users\admin\Desktop\C#\control - 0925\control\obj\x86\Debug\control.pdb
+C:\Users\admin\Desktop\C#\control - 0925\control\bin\Debug\control.exe
+C:\Users\admin\Desktop\C#\control - 0925\control\bin\Debug\control.pdb
+C:\Users\admin\Desktop\C#\control - 0925\control\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\C#\control - 0925\control\obj\x86\Debug\control.Form1.resources
+C:\Users\admin\Desktop\C#\control - 0925\control\obj\x86\Debug\control.Properties.Resources.resources
+C:\Users\admin\Desktop\C#\control - 0925\control\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\C#\control - 0925\control\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\control - 0925\control\obj\x86\Debug\Interop.SHDocVw.dll
+C:\Users\admin\Desktop\control - 0925\control\obj\x86\Debug\control.csproj.ResolveComReference.cache
+C:\Users\admin\Desktop\control - 0925\control\obj\x86\Debug\control.exe
+C:\Users\admin\Desktop\control - 0925\control\obj\x86\Debug\control.pdb
+C:\Users\admin\Desktop\control - 0925\control\bin\Debug\control.exe
+C:\Users\admin\Desktop\control - 0925\control\bin\Debug\control.pdb
+C:\Users\admin\Desktop\control - 0925\control\obj\x86\Debug\control.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\control - 0925\control\obj\x86\Debug\control.Form1.resources
+C:\Users\admin\Desktop\control - 0925\control\obj\x86\Debug\control.Properties.Resources.resources
+C:\Users\admin\Desktop\control - 0925\control\obj\x86\Debug\control.csproj.GenerateResource.Cache
+C:\Users\S.H Kim\Desktop\control_-_0929\control\obj\x86\Debug\Interop.SHDocVw.dll
+C:\Users\S.H Kim\Desktop\control_-_0929\control\obj\x86\Debug\control.csproj.ResolveComReference.cache
+C:\Users\S.H Kim\Desktop\control_-_0929\control\obj\x86\Debug\control.exe
+C:\Users\S.H Kim\Desktop\control_-_0929\control\obj\x86\Debug\control.pdb
+C:\Users\S.H Kim\Desktop\control_-_0929\control\bin\Debug\control.exe
+C:\Users\S.H Kim\Desktop\control_-_0929\control\bin\Debug\control.pdb
+C:\Users\S.H Kim\Desktop\control_-_0929\control\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\S.H Kim\Desktop\control_-_0929\control\obj\x86\Debug\control.Form1.resources
+C:\Users\S.H Kim\Desktop\control_-_0929\control\obj\x86\Debug\control.Properties.Resources.resources
+C:\Users\S.H Kim\Desktop\control_-_0929\control\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\S.H Kim\Desktop\control_-_0929\control\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\S.H Kim\Desktop\control - 1001\control\obj\x86\Debug\Interop.SHDocVw.dll
+C:\Users\S.H Kim\Desktop\control - 1001\control\obj\x86\Debug\control.csproj.ResolveComReference.cache
+C:\Users\S.H Kim\Desktop\control - 1001\control\obj\x86\Debug\control.exe
+C:\Users\S.H Kim\Desktop\control - 1001\control\obj\x86\Debug\control.pdb
+C:\Users\S.H Kim\Desktop\control - 1001\control\bin\Debug\control.exe
+C:\Users\S.H Kim\Desktop\control - 1001\control\bin\Debug\control.pdb
+C:\Users\S.H Kim\Desktop\control - 1001\control\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\S.H Kim\Desktop\control - 1001\control\obj\x86\Debug\control.Form1.resources
+C:\Users\S.H Kim\Desktop\control - 1001\control\obj\x86\Debug\control.Properties.Resources.resources
+C:\Users\S.H Kim\Desktop\control - 1001\control\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\S.H Kim\Desktop\control - 1001\control\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Gwang-O\Downloads\control - 1001-2\control\obj\x86\Debug\Interop.SHDocVw.dll
+C:\Users\Gwang-O\Downloads\control - 1001-2\control\obj\x86\Debug\control.csproj.ResolveComReference.cache
+C:\Users\Gwang-O\Downloads\control - 1001-2\control\obj\x86\Debug\control.exe
+C:\Users\Gwang-O\Downloads\control - 1001-2\control\obj\x86\Debug\control.pdb
+C:\Users\Gwang-O\Downloads\control - 1001-2\control\bin\Debug\control.exe
+C:\Users\Gwang-O\Downloads\control - 1001-2\control\bin\Debug\control.pdb
+C:\Users\Gwang-O\Downloads\control - 1001-2\control\obj\x86\Debug\control.csprojResolveAssemblyReference.cache
+C:\Users\Gwang-O\Downloads\control - 1001-2\control\obj\x86\Debug\control.Form1.resources
+C:\Users\Gwang-O\Downloads\control - 1001-2\control\obj\x86\Debug\control.Properties.Resources.resources
+C:\Users\Gwang-O\Downloads\control - 1001-2\control\obj\x86\Debug\control.csproj.GenerateResource.Cache
+C:\Users\Rainbow\Desktop\control - 1001-2\control\obj\x86\Debug\Interop.SHDocVw.dll
+C:\Users\Rainbow\Desktop\control - 1001-2\control\obj\x86\Debug\control.csproj.ResolveComReference.cache
+C:\Users\Rainbow\Desktop\control - 1001-2\control\obj\x86\Debug\control.exe
+C:\Users\Rainbow\Desktop\control - 1001-2\control\obj\x86\Debug\control.pdb
+C:\Users\Rainbow\Desktop\control - 1001-2\control\bin\Debug\control.exe.config
+C:\Users\Rainbow\Desktop\control - 1001-2\control\bin\Debug\control.exe
+C:\Users\Rainbow\Desktop\control - 1001-2\control\bin\Debug\control.pdb
+C:\Users\Rainbow\Desktop\control - 1001-2\control\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rainbow\Desktop\control - 1001-2\control\obj\x86\Debug\control.Form1.resources
+C:\Users\Rainbow\Desktop\control - 1001-2\control\obj\x86\Debug\control.Properties.Resources.resources
+C:\Users\Rainbow\Desktop\control - 1001-2\control\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rainbow\Desktop\control - 1001-2\control\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rainbow\Desktop\control-1025\control\bin\Debug\control.exe.config
+C:\Users\Rainbow\Desktop\control-1025\control\obj\x86\Debug\Interop.SHDocVw.dll
+C:\Users\Rainbow\Desktop\control-1025\control\obj\x86\Debug\control.csproj.ResolveComReference.cache
+C:\Users\Rainbow\Desktop\control-1025\control\obj\x86\Debug\control.exe
+C:\Users\Rainbow\Desktop\control-1025\control\obj\x86\Debug\control.pdb

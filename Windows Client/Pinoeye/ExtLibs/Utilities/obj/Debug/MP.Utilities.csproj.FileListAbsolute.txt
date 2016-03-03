@@ -1,0 +1,11 @@
+C:\Users\Rainbow\Desktop\control-1025\control\ExtLibs\Utilities\bin\Debug\MP.Utilities.dll
+C:\Users\Rainbow\Desktop\control-1025\control\ExtLibs\Utilities\bin\Debug\MP.Utilities.pdb
+C:\Users\Rainbow\Desktop\control-1025\control\ExtLibs\Utilities\bin\Debug\ProjNet.dll
+C:\Users\Rainbow\Desktop\control-1025\control\ExtLibs\Utilities\obj\Debug\MP.Utilities.dll
+C:\Users\Rainbow\Desktop\control-1025\control\ExtLibs\Utilities\obj\Debug\MP.Utilities.pdb
+C:\Users\Rainbow\Desktop\Pinoeye\control\ExtLibs\Utilities\bin\Debug\MP.Utilities.dll
+C:\Users\Rainbow\Desktop\Pinoeye\control\ExtLibs\Utilities\bin\Debug\MP.Utilities.pdb
+C:\Users\Rainbow\Desktop\Pinoeye\control\ExtLibs\Utilities\bin\Debug\ProjNet.dll
+C:\Users\Rainbow\Desktop\Pinoeye\control\ExtLibs\Utilities\obj\Debug\MP.Utilities.csprojResolveAssemblyReference.cache
+C:\Users\Rainbow\Desktop\Pinoeye\control\ExtLibs\Utilities\obj\Debug\MP.Utilities.dll
+C:\Users\Rainbow\Desktop\Pinoeye\control\ExtLibs\Utilities\obj\Debug\MP.Utilities.pdb

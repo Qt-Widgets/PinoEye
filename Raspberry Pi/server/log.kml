@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Document>
+	<name>Pino Eye GPS Tracker</name>
+	<description>2013.09.26</description>
+
+   <Style id="redLine">
+	<LineStyle>
+		<color>ff0000ff</color>
+		<width>4</width>
+	</LineStyle>
+   </Style>
+
+   <Placemark>
+	<name>Red Line</name>
+	<styleUrl>#redLine</styleUrl>
+        <LineString>
+		<altitudeMode>relative</altitudeMode>
+                <coordinates>
+</coordinates></LineString></Placemark></Document></kml>

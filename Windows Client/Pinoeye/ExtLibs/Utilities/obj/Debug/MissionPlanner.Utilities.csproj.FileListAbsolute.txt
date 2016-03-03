@@ -1,0 +1,6 @@
+C:\Users\Libero\MissionPlanner\ExtLibs\Utilities\bin\Debug\MissionPlanner.Utilities.dll
+C:\Users\Libero\MissionPlanner\ExtLibs\Utilities\bin\Debug\MissionPlanner.Utilities.pdb
+C:\Users\Libero\MissionPlanner\ExtLibs\Utilities\bin\Debug\AWSSDK.dll
+C:\Users\Libero\MissionPlanner\ExtLibs\Utilities\obj\Debug\MissionPlanner.Utilities.csprojResolveAssemblyReference.cache
+C:\Users\Libero\MissionPlanner\ExtLibs\Utilities\obj\Debug\MissionPlanner.Utilities.dll
+C:\Users\Libero\MissionPlanner\ExtLibs\Utilities\obj\Debug\MissionPlanner.Utilities.pdb

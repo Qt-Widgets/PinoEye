@@ -1,0 +1,7 @@
+C:\Users\Rainbow\Desktop\control-1025\control\obj\Debug\Application1.csprojResolveAssemblyReference.cache
+C:\Users\Rainbow\Desktop\control-1025\control\obj\Debug\Interop.SHDocVw.dll
+C:\Users\Rainbow\Desktop\control-1025\control\obj\Debug\Application1.csproj.ResolveComReference.cache
+C:\Users\Rainbow\Desktop\control-1025\control\obj\Debug\Application1.Form1.resources
+C:\Users\Rainbow\Desktop\control-1025\control\obj\Debug\Application1.Properties.Resources.resources
+C:\Users\Rainbow\Desktop\control-1025\control\obj\Debug\Application1.csproj.GenerateResource.Cache
+C:\Users\Rainbow\Desktop\control-1025\control\bin\Debug\Application1.exe.config

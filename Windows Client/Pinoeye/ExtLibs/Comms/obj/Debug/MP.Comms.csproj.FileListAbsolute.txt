@@ -1,0 +1,8 @@
+C:\Users\Rainbow\Desktop\control-1025\control\ExtLibs\Comms\bin\Debug\MP.Comms.dll
+C:\Users\Rainbow\Desktop\control-1025\control\ExtLibs\Comms\bin\Debug\MP.Comms.pdb
+C:\Users\Rainbow\Desktop\control-1025\control\ExtLibs\Comms\obj\Debug\MP.Comms.dll
+C:\Users\Rainbow\Desktop\control-1025\control\ExtLibs\Comms\obj\Debug\MP.Comms.pdb
+C:\Users\Rainbow\Desktop\Pinoeye\control\ExtLibs\Comms\bin\Debug\MP.Comms.dll
+C:\Users\Rainbow\Desktop\Pinoeye\control\ExtLibs\Comms\bin\Debug\MP.Comms.pdb
+C:\Users\Rainbow\Desktop\Pinoeye\control\ExtLibs\Comms\obj\Debug\MP.Comms.dll
+C:\Users\Rainbow\Desktop\Pinoeye\control\ExtLibs\Comms\obj\Debug\MP.Comms.pdb

@@ -1,0 +1,3 @@
+C:\Users\Rainbow\Desktop\control - 1001-2\control\bin\Release\control.exe.config
+C:\Users\Rainbow\Desktop\control - 1001-2\control\obj\x86\Release\Interop.SHDocVw.dll
+C:\Users\Rainbow\Desktop\control - 1001-2\control\obj\x86\Release\control.csproj.ResolveComReference.cache

@@ -1,0 +1,9 @@
+C:\Users\Libero\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\ExtLibs\Utilities\bin\Debug\Application1.Utilities.dll
+C:\Users\Libero\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\ExtLibs\Utilities\bin\Debug\Application1.Utilities.pdb
+C:\Users\Libero\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\ExtLibs\Utilities\bin\Debug\GeoUtility.dll
+C:\Users\Libero\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\ExtLibs\Utilities\bin\Debug\GMap.NET.Core.dll
+C:\Users\Libero\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\ExtLibs\Utilities\bin\Debug\ProjNet.dll
+C:\Users\Libero\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\ExtLibs\Utilities\bin\Debug\GeoUtility.pdb
+C:\Users\Libero\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\ExtLibs\Utilities\obj\Debug\Application1.Utilities.csprojResolveAssemblyReference.cache
+C:\Users\Libero\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\ExtLibs\Utilities\obj\Debug\Application1.Utilities.dll
+C:\Users\Libero\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\ExtLibs\Utilities\obj\Debug\Application1.Utilities.pdb

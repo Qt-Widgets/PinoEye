@@ -1,0 +1,39 @@
+C:\Users\Libero\MissionPlanner\ExtLibs\Comms\obj\Debug\MissionPlanner.Comms.csprojResolveAssemblyReference.cache
+C:\Users\Libero\MissionPlanner\ExtLibs\Comms\bin\Debug\MissionPlanner.Comms.dll
+C:\Users\Libero\MissionPlanner\ExtLibs\Comms\bin\Debug\MissionPlanner.Comms.pdb
+C:\Users\Libero\MissionPlanner\ExtLibs\Comms\bin\Debug\log4net.dll
+C:\Users\Libero\MissionPlanner\ExtLibs\Comms\bin\Debug\MissionPlanner.Controls.dll
+C:\Users\Libero\MissionPlanner\ExtLibs\Comms\bin\Debug\BSE.Windows.Forms.dll
+C:\Users\Libero\MissionPlanner\ExtLibs\Comms\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Libero\MissionPlanner\ExtLibs\Comms\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Libero\MissionPlanner\ExtLibs\Comms\bin\Debug\GeoUtility.dll
+C:\Users\Libero\MissionPlanner\ExtLibs\Comms\bin\Debug\MissionPlanner.Utilities.dll
+C:\Users\Libero\MissionPlanner\ExtLibs\Comms\bin\Debug\OpenTK.dll
+C:\Users\Libero\MissionPlanner\ExtLibs\Comms\bin\Debug\GMap.NET.Core.dll
+C:\Users\Libero\MissionPlanner\ExtLibs\Comms\bin\Debug\AWSSDK.dll
+C:\Users\Libero\MissionPlanner\ExtLibs\Comms\bin\Debug\MissionPlanner.Controls.pdb
+C:\Users\Libero\MissionPlanner\ExtLibs\Comms\bin\Debug\BSE.Windows.Forms.pdb
+C:\Users\Libero\MissionPlanner\ExtLibs\Comms\bin\Debug\BSE.Windows.Forms.xml
+C:\Users\Libero\MissionPlanner\ExtLibs\Comms\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\Libero\MissionPlanner\ExtLibs\Comms\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Libero\MissionPlanner\ExtLibs\Comms\bin\Debug\GMap.NET.WindowsForms.pdb
+C:\Users\Libero\MissionPlanner\ExtLibs\Comms\bin\Debug\GeoUtility.pdb
+C:\Users\Libero\MissionPlanner\ExtLibs\Comms\bin\Debug\MissionPlanner.Utilities.pdb
+C:\Users\Libero\MissionPlanner\ExtLibs\Comms\bin\Debug\GMap.NET.Core.pdb
+C:\Users\Libero\MissionPlanner\ExtLibs\Comms\obj\Debug\MissionPlanner.Comms.dll
+C:\Users\Libero\MissionPlanner\ExtLibs\Comms\obj\Debug\MissionPlanner.Comms.pdb
+C:\Users\Libero\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\ExtLibs\Comms\bin\Debug\MissionPlanner.Comms.dll
+C:\Users\Libero\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\ExtLibs\Comms\bin\Debug\MissionPlanner.Comms.pdb
+C:\Users\Libero\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\ExtLibs\Comms\bin\Debug\MissionPlanner.Controls.dll
+C:\Users\Libero\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\ExtLibs\Comms\bin\Debug\GeoUtility.dll
+C:\Users\Libero\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\ExtLibs\Comms\bin\Debug\MissionPlanner.Utilities.dll
+C:\Users\Libero\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\ExtLibs\Comms\bin\Debug\GMap.NET.Core.dll
+C:\Users\Libero\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\ExtLibs\Comms\bin\Debug\AWSSDK.dll
+C:\Users\Libero\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\ExtLibs\Comms\bin\Debug\MissionPlanner.Controls.pdb
+C:\Users\Libero\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\ExtLibs\Comms\bin\Debug\GeoUtility.pdb
+C:\Users\Libero\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\ExtLibs\Comms\bin\Debug\MissionPlanner.Utilities.pdb
+C:\Users\Libero\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\ExtLibs\Comms\bin\Debug\GMap.NET.Core.pdb
+C:\Users\Libero\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\ExtLibs\Comms\obj\Debug\MissionPlanner.Comms.csprojResolveAssemblyReference.cache
+C:\Users\Libero\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\ExtLibs\Comms\obj\Debug\MissionPlanner.Comms.dll
+C:\Users\Libero\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\ExtLibs\Comms\obj\Debug\MissionPlanner.Comms.pdb
+c:\Users\Libero\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\ExtLibs\Comms\bin\Debug\log4net.dll
